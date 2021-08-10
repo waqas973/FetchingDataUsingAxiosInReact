@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FetchingDataUsingAxiosInReact/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/FetchingDataUsingAxiosInReact/static/js/main.20cb6338.chunk.js",
+    "main.js.map": "/FetchingDataUsingAxiosInReact/static/js/main.20cb6338.chunk.js.map",
+    "runtime-main.js": "/FetchingDataUsingAxiosInReact/static/js/runtime-main.402d9671.js",
+    "runtime-main.js.map": "/FetchingDataUsingAxiosInReact/static/js/runtime-main.402d9671.js.map",
+    "static/js/2.80d58fa3.chunk.js": "/FetchingDataUsingAxiosInReact/static/js/2.80d58fa3.chunk.js",
+    "static/js/2.80d58fa3.chunk.js.map": "/FetchingDataUsingAxiosInReact/static/js/2.80d58fa3.chunk.js.map",
+    "static/js/3.3a5ef85b.chunk.js": "/FetchingDataUsingAxiosInReact/static/js/3.3a5ef85b.chunk.js",
+    "static/js/3.3a5ef85b.chunk.js.map": "/FetchingDataUsingAxiosInReact/static/js/3.3a5ef85b.chunk.js.map",
+    "index.html": "/FetchingDataUsingAxiosInReact/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/FetchingDataUsingAxiosInReact/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.80d58fa3.chunk.js.LICENSE.txt": "/FetchingDataUsingAxiosInReact/static/js/2.80d58fa3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.402d9671.js",
+    "static/js/2.80d58fa3.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.20cb6338.chunk.js"
+  ]
+}
